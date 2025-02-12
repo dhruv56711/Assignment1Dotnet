@@ -1,0 +1,14 @@
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.AssemblyInfoInputs.cache
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.AssemblyInfo.cs
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.csproj.CoreCompileInputs.cache
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/bin/Debug/net9.0/A1DhruvYadav
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/bin/Debug/net9.0/A1DhruvYadav.deps.json
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/bin/Debug/net9.0/A1DhruvYadav.runtimeconfig.json
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/bin/Debug/net9.0/A1DhruvYadav.dll
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/bin/Debug/net9.0/A1DhruvYadav.pdb
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.dll
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/refint/A1DhruvYadav.dll
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.pdb
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/A1DhruvYadav.genruntimeconfig.cache
+/Users/dhruvyadav/Desktop/dot net /Assignment-1/A1DhruvYadav/obj/Debug/net9.0/ref/A1DhruvYadav.dll
